@@ -1,0 +1,2 @@
+# OKX-BNB-KUCN-Cross_Platform-Arbitrage-Trading-Bot
+My first attempt at creating a profitable and automated cross-platform(x3) automated arbitrage opportunity finder and trading bot. Any and all advice, help, assistance, forking ,etc. is very much welcomed and needed. With a little work on a few aspects such as fee rate calculations, I think this thing could really work. This thing has good bones :)
